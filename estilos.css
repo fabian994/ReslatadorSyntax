@@ -1,12 +1,38 @@
 
 * {
     margin: 0;
-    padding: 0;
-    font-family: Calibri;
+    padding-left: 5px;
+    font-family: Consolas;
+}
+body{
+	background-color: #1E1E1E;
+}
+p{
+	font-size: 14pt;
+	font-family: Consolas;
+	color: rgb(190, 214, 255);
 }
 
-p{
-	
-	font-size: 14pt;
-	font-family: Calibri;
+.comentario{
+	color: rgb(199, 221, 12);
+}
+
+.numero{
+	color: rgb(127, 214, 255);
+}
+
+.reservada{
+	color: white;
+}
+
+.string{
+	color: rgb(255, 198, 0);
+}
+
+.simbolo{
+	color: rgb(217, 229, 119);
+}
+
+.operador{
+	color: aqua;
 }
